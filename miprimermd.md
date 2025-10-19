@@ -8,6 +8,7 @@ Este es un parrafo con **palabras en negrita** palabras en *cursiva* y `esto est
 echo "hola mundo";
 
 ?>
+```
 
 1. lista
 2. ordenada
